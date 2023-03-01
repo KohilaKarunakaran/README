@@ -48,5 +48,5 @@ This is a *Italic text*
 
 This is ***bold and italic***
 
-This is a ´code`
+This is a ´´code.
 
