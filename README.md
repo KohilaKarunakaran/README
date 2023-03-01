@@ -46,3 +46,5 @@ Thi is a **bold text**.
 
 I **like** bold text.
 
+This is a *Italic text*
+
