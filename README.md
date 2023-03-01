@@ -42,3 +42,7 @@
 
 ![This is a parrot](https://i.pinimg.com/736x/04/20/92/042092438f621aea7c39f6b26d866b48--parrots-parakeets.jpg).
 
+Thi is a **bold text**.
+
+I **like** bold text.
+
