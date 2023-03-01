@@ -48,5 +48,5 @@ This is a *Italic text*
 
 This is ***bold and italic***
 
-``Use `code` in your Markdown file.``
+``This `code` is in quotes file.``
 
