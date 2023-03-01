@@ -2,11 +2,11 @@
 
 1. Pencil
 
-2. Pen
+  2. Pen
 
 3. eraser
 
-4. Paper
+  4. Paper
 
 #### Unorderd List
 
@@ -14,7 +14,7 @@
  
   This is a Paragraph
  
-+Computer
++ Computer
 
 + Mouse
 
