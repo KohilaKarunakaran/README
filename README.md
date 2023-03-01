@@ -20,7 +20,7 @@
  
 + Computer
  
- - 2023/* A great year
+ - 2023/. A great year
  
 + Mouse
 
